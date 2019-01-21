@@ -2,7 +2,7 @@
 
 case $1 in
   "" )
-    echo "Hello $USER !";;
+    echo "Hello $USER!";;
    "$1")
-    echo "Hello $1 !";;
+    echo "Hello $1!";;
 esac
