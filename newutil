@@ -7,5 +7,5 @@ case $1 in
     echo "Hello $1!&!&!";;
     echo "My name is $1!&!&!";;
     echo "Your name is $1!&!&!";;
-    echo "Test pull request!";;
+    echo "Test pull request!!";;
 esac
